@@ -1,0 +1,13 @@
+# Environment variables
+.env
+service_acc.json
+setup.bash
+testFolder
+# Python
+__pycache__/
+*.py[cod]
+venv/ 
+
+webhooks_db.binlog
+tqueue.binlog
+telegram-bot-api
